@@ -58,7 +58,7 @@ read -p "Please enter 0 or 1: " num
 
         done
 
-     # When the player presses 0, the game will be over.
+    # When the player presses 0, the game will be over.
     elif [[ $num -eq 0 ]]; then
     exit
 
